@@ -11,6 +11,8 @@ Dpaste
 
 dpaste is a [pastebin](https://en.wikipedia.org/wiki/Pastebin) application written in [Python](https://www.python.org/) using the [Django](https://www.djangoproject.com/) framework. You can find a live installation on [dpaste.org.](https://dpaste.org)
 
+<img src="https://cdn.darrennathanael.com/assets/dpaste/dpaste.png" alt="Dpaste in action" width="380"/>
+
 The project is intended to run standalone as any regular Django Project, but it's also possible to install it into an existing project as a typical Django application.
 
 
